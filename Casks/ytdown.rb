@@ -1,6 +1,6 @@
 cask "ytdown" do
-  version "2026.4.29.1"
-  sha256 "05a447813ab44567df6a59c3dc6d76e6ae4c7831621e5d37c870d4bc9e47cc60"
+  version "2026.4.29.2"
+  sha256 "566c1e3702a95308206ac5da4275d7c4fd518b809e1fe835c7ea75bf7f161562"
 
   url "https://github.com/JustinNguyen9979/YTDown/releases/download/#{version}/YTDown-#{version}.dmg"
 
